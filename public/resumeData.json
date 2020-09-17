@@ -1,0 +1,106 @@
+{
+  "main": {
+    "name": "Raghava Kumar",
+    "occupation": " ReactJS Developer ",
+    "description": "Full Stack React Developer by Day",
+    "image": "Raghava.jpg",
+    "bio": "My name is Raghava, I'm looking into Full Stack ReactJS Developer. Currently I'm working at Wirecard India Pvt Ltd  ",
+    "contactmessage": "Get in touch with me further details, get to know or anything else.",
+    "email": "vennaraghava@gmail.com",
+    "phone": "9790451707",
+    "address": {
+      "street": "Kpk Nagar North",
+      "city": "Chennai",
+      "state": "Tamilnadu",
+      "zip": "600096"
+    },
+    "website": "https://drive.google.com/file/d/197BGJKyaV2IPy8CJ2Y87RjBDqGff8LrW/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/197BGJKyaV2IPy8CJ2Y87RjBDqGff8LrW/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/raghava.kumar.562",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/raghava-kumar-464007128/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/vavsrk",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "SRM University",
+        "degree": "Bachelors in Electrical and Electronics",
+        "graduated": "May 2018",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Wirecard India Pvt Ltd",
+        "title": "Support Engineer",
+        "years": "March 2020 - Present",
+        "description": "Worked on over end to end German based Aquiring and Issuing Banking support Domain."
+      },
+      {
+        "company": "3Edge Solutions",
+        "title": "Software Trainee",
+        "years": "Aug 2019 - Jan 2020",
+        "description": "Learned about FUll Stack Web Devlopemnt and build a project on Online Movie Ticket Booking ."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "MySQL",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone with React",
+        "category": "Amazon Clone built with ReactJS",
+        "image": "Amazon-clone.png",
+        "url": "https://clone-99d79.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "That Raghava kumar must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Yogesh... impersonator"
+      }
+    ]
+  }
+}
